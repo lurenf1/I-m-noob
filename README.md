@@ -30,6 +30,9 @@ int main(){
 
 	[![说谎](https://p2.music.126.net/dXfWd-eY7ZSIjyiY1qYDrQ==/109951168700387757.jpg?param=130y130)](https://www.bilibili.com/video/BV1fm4y1Y7LM/?spm_id_from=333.337.search-card.all.click&vd_source=61a7d0ff7ef2290dcbadefa0bee3d62f)
 
+	[**biribiri - YOASOBI**](https://www.youtube.com/watch?v=shZyg5VFI1Y)
+	![biribiri](https://i.ytimg.com/vi/shZyg5VFI1Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE0i-Hl8x37ogzk7kK1OdwYNKN8Q)
+
 ## 表格的操作
 - 使用‘ | ’，多个‘ | ’用于隔开数据，并在其下方使用减号替代所填内容，目的是隔开表头和所填数据。
 例：
