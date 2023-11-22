@@ -26,6 +26,7 @@ int main(){
 ## 链接的操作
 - 使用‘[]（)’，方括号内放链接的别名，圆括号内放地址。当想在文本内显示图片时，在前加叹号‘ ！’。若是需要使用将图片本身做成一个链接，则再在外套一层‘[]（)’。
 例： 
+
 [**说谎-Geebar**](https://www.bilibili.com/video/BV1fm4y1Y7LM/?spm_id_from=333.337.search-card.all.click&vd_source=61a7d0ff7ef2290dcbadefa0bee3d62f)
 
 	[![说谎](https://p2.music.126.net/dXfWd-eY7ZSIjyiY1qYDrQ==/109951168700387757.jpg?param=130y130)](https://www.bilibili.com/video/BV1fm4y1Y7LM/?spm_id_from=333.337.search-card.all.click&vd_source=61a7d0ff7ef2290dcbadefa0bee3d62f)
